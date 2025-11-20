@@ -207,4 +207,5 @@ public:
         return make_api_call("/bag" + build_query_params(params),"GET");
     }
 };
+
 #endif
